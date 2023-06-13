@@ -19,4 +19,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/fylo-dark-theme-landing-page-react/assets/13519212/f9ed5481-05be-4e22-ae96-3925224c16c0)
